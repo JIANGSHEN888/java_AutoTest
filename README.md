@@ -1,4 +1,4 @@
-# Allure Example
+# Web Auto Test 
 
 > Example of Allure Report usage with TestNG, Java and Maven
 
